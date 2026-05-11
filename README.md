@@ -1,11 +1,11 @@
 Multi-Branch Secure Enterprise Network & Smart System Design
 
-📝 Project Overview
+Project Overview
 This project simulates a high-security, redundant, and mobile-integrated network infrastructure connecting **Istanbul (HQ)** and **Ankara (Branch)**. The design focuses on high availability, logical segmentation, and multi-layered security to ensure seamless business operations.
 
 
 
-🚀 Technical Implementation Details
+Technical Implementation Details
 
  1. High Availability & OSPF Routing
     
@@ -58,19 +58,33 @@ DHCP Relay: The Ankara router acts as a relay agent, allowing branch devices to 
 ## 📸 Project Visuals
 
 1. Network Infrastructure & Routing
+   <br><br>
 ![Topology](Topology.png)
+<br>
 ![OSPF Routes](ospf-routing-table.png)
+<br>
 ![Interface Status](ip-address-inventory.png)
+<br>
 ![VLAN Status](switch-vlan-segmentation.png)
+<br><br>
 
-2. Security Implementations
+3. Security Implementations
+   <br><br>
 ![Login Prompt](secure-device-login.png)
+<br>
 ![Port Security Status](port-security-status.png)
+<br>
 ![Security Violation](port-security-violation.png)
+<br>
 ![Admin Telnet](admin-telnet-access.png)
+<br><br>
 
-3. Network Services & Connectivity
+5. Network Services & Connectivity
+   <br><br>
 ![Ping Test](successfull-ping-result.png)
+<br>
 ![DHCP Config 1](automatic-ip-config1.png)
+<br>
 ![DHCP Config 2](automatic-ip-config2.png)
+<br>
 ![Web Access](SmartPhone.png)
