@@ -58,33 +58,57 @@ DHCP Relay: The Ankara router acts as a relay agent, allowing branch devices to 
 ## 📸 Project Visuals
 
 1. Network Infrastructure & Routing
-   <br><br>
+ <br><br>
+  Topology
+ <br><br>
 ![Topology](Topology.png)
+<br><br>
+  OSPF Routes
 <br><br>
 ![OSPF Routes](ospf-routing-table.png)
 <br><br>
+  Interface Status
+<br><br>
 ![Interface Status](ip-address-inventory.png)
 <br><br>
+   VLAN Status
+   <br><br>
 ![VLAN Status](switch-vlan-segmentation.png)
 <br><br>
 
 3. Security Implementations
    <br><br>
+   Login Prompt
+   <br><br>
 ![Login Prompt](secure-device-login.png)
 <br><br>
+    Port Security Status
+   <br><br>
 ![Port Security Status](port-security-status.png)
 <br><br>
+    Security Violation
+   <br><br>
 ![Security Violation](port-security-violation.png)
 <br><br>
+   Admin Telnet
+   <br><br>
 ![Admin Telnet](admin-telnet-access.png)
 <br><br>
 
 5. Network Services & Connectivity
    <br><br>
+   Ping Test
+   <br><br>
 ![Ping Test](successfull-ping-result.png)
 <br><br>
+    DHCP Config 1
+   <br><br>
 ![DHCP Config 1](automatic-ip-config1.png)
 <br><br>
+    DHCP Config 2
+   <br><br>
 ![DHCP Config 2](automatic-ip-config2.png)
 <br><br>
+   Web Access
+   <br><br>
 ![Web Access](SmartPhone.png)
